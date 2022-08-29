@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dehercar
-- 👀 I’m interested in learning more about Web Development, IA, Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on projects with these technologies
-- 📫 How to reach me
+- 👋 Hi, I’m David Cardenas
+- 👀 I’m interested in learning more about Machine Learning and Data Engineering
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects with these technologies Pandas, PySpark, NLTK, scikit-learn, DevOps
+- 📫 Reach me on my email: davidhdzcard@gmail.com
 
 <!---
 dehercar/dehercar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
