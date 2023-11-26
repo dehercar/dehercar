@@ -1,4 +1,5 @@
 - 👋 Hi, I’m David Cardenas
+- 💼 This is my portfolio: [Portfolio](https://dehercar.github.io/portfolio/)
 - 👀 I’m interested in learning more about Machine Learning and Data Engineering
 - 🌱 I’m an experienced Python developer
 - 💞️ I’m looking to collaborate on projects with these technologies: Pandas, NLTK, scikit-learn
